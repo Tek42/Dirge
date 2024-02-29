@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
-	<region id="Templates">
-		<node id="Templates">
-			<children>
-				<node id="GameObjects">
+    <version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+    <region id="Templates">
+        <node id="Templates">
+            <children>
+                <node id="GameObjects">
                     <attribute id="AnubisConfigName" type="FixedString" value="DefaultBeast" />
                     <attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
                     <attribute id="CanFight" type="bool" value="True" />
@@ -194,8 +194,8 @@
                     <children>
                         <node id="LocomotionParams" />
                     </children>
-				</node>
-			</children>
-		</node>
-	</region>
+                </node>
+            </children>
+        </node>
+    </region>
 </save>

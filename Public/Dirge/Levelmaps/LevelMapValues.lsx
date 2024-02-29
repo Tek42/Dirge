@@ -18,7 +18,7 @@
                     <attribute id="Level8" type="LSString" value="2d8,Necrotic"/>
                     <attribute id="Level9" type="LSString" value="3d8,Necrotic"/>
                     <attribute id="Name" type="FixedString" value="DirgeNecrotic"/>
-                    <attribute id="UUID" type="guid" value="bc8431b6-ba85-433c-a0bd-58760318478c"/>
+                    <attribute id="UUID" type="guid" value="13db464a-2a4a-4aaf-9b9d-c046c8b7d4aa"/>
                 </node>
             </children>
         </node>

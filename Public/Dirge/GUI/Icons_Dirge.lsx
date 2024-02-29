@@ -135,7 +135,7 @@
                 </node>
                 <node id="TextureAtlasPath">
                     <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Dirge.DDS"/>
-                    <attribute id="UUID" type="FixedString" value="4ea190b1-5eff-4eb9-83a8-e75af3a344ae"/>
+                    <attribute id="UUID" type="FixedString" value="f9f18a2b-13a2-4559-a5b2-16b663f74967"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="1280"/>

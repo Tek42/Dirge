@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="habf94624g1ea5g4af3gb717gca10ea61cbea" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd64fcc4eg3702g4897gbcd5g5fa6972566e8" version="1" />
+                    <attribute id="ProgressionTableId" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da" />
+                    <attribute id="Hidden" type="bool" value="false" />
+                    <attribute id="Type" type="FixedString" value="Dirge" />
+                    <attribute id="UUID" type="guid" value="456ed82f-2c25-4016-ab3b-3b0cbee4119f" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -11,7 +11,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="PassivesAdded" type="LSString" value="BardicInspiration;BardSpellcasting;UnlockedSpellSlotLevel1"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(ed664663-93b9-4070-a54b-3c7b19c0e7b4,3);SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,2,0,BardCantrip,,,AlwaysPrepared);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument);SelectAbilityBonus(cad00438-a196-48d2-905b-6b9f241d0bb9,AbilityBonus,2,1)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(ed664663-93b9-4070-a54b-3c7b19c0e7b4,3);SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,2,0,BardCantrip,,,AlwaysPrepared);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da"/>
                     <attribute id="UUID" type="guid" value="c4f8dd98-2926-43cf-b4d0-56b19dc994c1"/>
                 </node>
@@ -22,7 +22,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="PassivesAdded" type="LSString" value="JackOfAllTrades"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,1,1,BardSpells);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(77b46e2f-8b80-4eac-9d57-9726ebf8fe4d,,,,AlwaysPrepared);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,1,1,BardSpells);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)"/>
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da"/>
                     <attribute id="UUID" type="guid" value="00d7aadf-8443-40df-a13d-dfb3475dc307"/>
                 </node>

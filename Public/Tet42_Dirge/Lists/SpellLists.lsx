@@ -5,8 +5,18 @@
     <node id="root">
       <children>
         <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 1" />
+          <attribute id="Spells" type="LSString" value="" />
+          <attribute id="UUID" type="guid" value="f915e3a2-1792-4956-a3b0-3fdc5faa913c" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Dirge Level 2" />
+          <attribute id="Spells" type="LSString" value="Shout_FalseLife;Dirge_MagicMissile_Container" />
+          <attribute id="UUID" type="guid" value="77b46e2f-8b80-4eac-9d57-9726ebf8fe4d" />
+        </node>
+        <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Dirge Level 3" />
-          <attribute id="Spells" type="LSString" value="Shout_FalseLife;Dirge_MagicMissile_Container;Target_Swarm_Rat" />
+          <attribute id="Spells" type="LSString" value="Target_Swarm_Rat" />
           <attribute id="UUID" type="guid" value="73f90440-3322-4847-8c5a-f739899fff95" />
         </node>
         <node id="SpellList">

@@ -5,11 +5,11 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Dexterity;Charisma"/>
+                    <attribute id="Add" type="LSString" value="Charisma;Dexterity"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
                     <attribute id="TableUUID" type="guid" value="0b1dd918-6c47-4e9a-a679-dd959e8574da"/>
-                    <attribute id="UUID" type="guid" value="cad00438-a196-48d2-905b-6b9f241d0bb9"/>
+                    <attribute id="UUID" type="guid" value="83db2a45-f9de-48b1-b981-51bfb21121e9"/>
                 </node>
             </children>
         </node>
